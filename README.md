@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/jaiswal_baba25" target="blank"><img src="https://img.shields.io/twitter/follow/jaiswal_baba25?logo=twitter&style=for-the-badge" alt="jaiswal_baba25" /></a> </p>
 
+- 🔭 I’m currently working at **Oracle**
+
+- 🌱 I’m currently learning **Data Science**
+
 - 👯 I’m looking to collaborate on **AI Enthusiasts**
 
 - 💬 Ask me about **AI, Startups, Tech, Data**
@@ -25,7 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rokingshubham1&show_icons=true&locale=en&layout=compact" alt="rokingshubham1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rokingshubham1&show_icons=true&locale=en" alt="rokingshubham1" /></p>
-
 
 <!--
 **rokingshubham1/rokingshubham1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
